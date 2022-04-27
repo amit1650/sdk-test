@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "awesome--pod"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "Awesome pod"
   spec.swift_version = "5.0"
 
